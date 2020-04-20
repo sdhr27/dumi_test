@@ -8,5 +8,5 @@ export function getTree() {
     id: 1,
     treeName: 'testTree',
   };
-  return testTree;
+  return testTree.treeName;
 }
